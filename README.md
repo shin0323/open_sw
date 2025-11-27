@@ -23,7 +23,8 @@
   7. time : 총 cpu 사용 시간
   8. cmd : 실행된 명령어 및 인수
  
- 
+ <img width="565" height="108" alt="image" src="https://github.com/user-attachments/assets/3ab8f691-abad-4bc4-ad7a-a15f4e06221b" />
+
      
 
 ## jobs
